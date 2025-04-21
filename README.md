@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SukeertiramGS/LeetCode2/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/SukeertiramGS/LeetCode2/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SukeertiramGS/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/SukeertiramGS/LeetCode2/tree/master/0394-decode-string) |
 | [1894-merge-strings-alternately](https://github.com/SukeertiramGS/LeetCode2/tree/master/1894-merge-strings-alternately) |
 ## Greedy

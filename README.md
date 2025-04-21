@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/SukeertiramGS/LeetCode2/tree/master/0175-combine-two-tables) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SukeertiramGS/LeetCode2/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1317-monthly-transactions-i](https://github.com/SukeertiramGS/LeetCode2/tree/master/1317-monthly-transactions-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/SukeertiramGS/LeetCode2/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SukeertiramGS/LeetCode2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/SukeertiramGS/LeetCode2/tree/master/2087-confirmation-rate) |

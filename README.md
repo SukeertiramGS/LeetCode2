@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/SukeertiramGS/LeetCode2/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SukeertiramGS/LeetCode2/tree/master/0605-can-place-flowers) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SukeertiramGS/LeetCode2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/SukeertiramGS/LeetCode2/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SukeertiramGS/LeetCode2/tree/master/0605-can-place-flowers) |
 ## Stack

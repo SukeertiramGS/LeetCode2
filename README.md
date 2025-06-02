@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SukeertiramGS/LeetCode2/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SukeertiramGS/LeetCode2/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/SukeertiramGS/LeetCode2/tree/master/0643-maximum-average-subarray-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SukeertiramGS/LeetCode2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/SukeertiramGS/LeetCode2/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SukeertiramGS/LeetCode2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/SukeertiramGS/LeetCode2/tree/master/2087-confirmation-rate) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SukeertiramGS/LeetCode2/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

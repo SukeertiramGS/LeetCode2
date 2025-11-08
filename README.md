@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/SukeertiramGS/LeetCode2/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/SukeertiramGS/LeetCode2/tree/master/0135-candy) |
 | [0300-longest-increasing-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SukeertiramGS/LeetCode2/tree/master/0322-coin-change) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SukeertiramGS/LeetCode2/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SukeertiramGS/LeetCode2/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/SukeertiramGS/LeetCode2/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SukeertiramGS/LeetCode2/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0518-coin-change-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/SukeertiramGS/LeetCode2/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/SukeertiramGS/LeetCode2/tree/master/0605-can-place-flowers) |

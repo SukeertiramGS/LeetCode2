@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0264-ugly-number-ii) |
 | [2434-design-a-number-container-system](https://github.com/SukeertiramGS/LeetCode2/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SukeertiramGS/LeetCode2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0264-ugly-number-ii) |
 | [2434-design-a-number-container-system](https://github.com/SukeertiramGS/LeetCode2/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SukeertiramGS/LeetCode2/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/SukeertiramGS/LeetCode2/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SukeertiramGS/LeetCode2/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SukeertiramGS/LeetCode2/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SukeertiramGS/LeetCode2/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0518-coin-change-ii) |

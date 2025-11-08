@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/SukeertiramGS/LeetCode2/tree/master/0135-candy) |
+| [0300-longest-increasing-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SukeertiramGS/LeetCode2/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0334-increasing-triplet-subsequence) |
 | [0518-coin-change-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0518-coin-change-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SukeertiramGS/LeetCode2/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SukeertiramGS/LeetCode2/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SukeertiramGS/LeetCode2/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/SukeertiramGS/LeetCode2/tree/master/0647-palindromic-substrings) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/SukeertiramGS/LeetCode2/tree/master/0954-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

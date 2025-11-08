@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/SukeertiramGS/LeetCode2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/SukeertiramGS/LeetCode2/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/SukeertiramGS/LeetCode2/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SukeertiramGS/LeetCode2/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0300-longest-increasing-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SukeertiramGS/LeetCode2/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/SukeertiramGS/LeetCode2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/SukeertiramGS/LeetCode2/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SukeertiramGS/LeetCode2/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/SukeertiramGS/LeetCode2/tree/master/0300-longest-increasing-subsequence) |

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SukeertiramGS/LeetCode2/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SukeertiramGS/LeetCode2/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/SukeertiramGS/LeetCode2/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SukeertiramGS/LeetCode2/tree/master/0518-coin-change-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SukeertiramGS/LeetCode2/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/SukeertiramGS/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/SukeertiramGS/LeetCode2/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/SukeertiramGS/LeetCode2/tree/master/0647-palindromic-substrings) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SukeertiramGS/LeetCode2/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/SukeertiramGS/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/SukeertiramGS/LeetCode2/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/SukeertiramGS/LeetCode2/tree/master/0443-string-compression) |
